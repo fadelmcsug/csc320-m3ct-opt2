@@ -8,7 +8,7 @@ public class groceryCalc {
 		System.out.println("Enter the coupon value as a decimal number");
 		double couponValue = scnr.nextDouble();
 		
-		if (couponValue > 100 || couponValue <= 0) {
+		if (couponValue > 1 || couponValue <= 0) {
 			couponValue = 0.10;
 		}
 		
