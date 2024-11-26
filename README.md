@@ -1,1 +1,2 @@
-# csc320-m3ct-opt2
+# Grocery Bill Calculator
+This app calculates the total grocery monthly grocery bill and the weekly average with and without a discount coupon.
